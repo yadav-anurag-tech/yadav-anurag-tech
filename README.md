@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yadav-anurag-tech
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Web Developer
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me anuragmmm2017@gmail.com
 
 <!---
